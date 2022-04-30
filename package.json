@@ -1,0 +1,22 @@
+{
+  "name": "meenv_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kofiarkoh/meenv_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kofiarkoh/meenv_site/issues"
+  },
+  "homepage": "https://github.com/kofiarkoh/meenv_site#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
